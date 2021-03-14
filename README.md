@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-Gather data from the U.S. Geological Survey (USGS) website and create an eartquake map using the Mapbox API with three different map styles (Streets, Satellite and Dark) and three overlays to represent the earthquake data in relation to the tectonic plates’ location on the earth, and all the earthquakes with a magnitude greater than 4.5 for the past 7 days.
+Gather data from the U.S. Geological Survey (USGS) website and create an eartquake map using the Mapbox API with three different map styles (Streets, Satellite and Dark) and three overlays to represent the earthquake data in relation to the tectonic plates’ location on the earth, and earthquakes with a magnitude greater than 4.5 for the past 7 days.
 
 ## Resources
 
